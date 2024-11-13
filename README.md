@@ -8,4 +8,4 @@ Ce dépôt contient des implémentations de différentes structures de données 
 - Graphe (Graph)
 - Et bien d'autres !
 
-L'objectif de ce projet est de comprendre et de maîtriser les concepts fondamentaux des structures de données en utilisant Python.
+L'objectif est de comprendre et de maîtriser les concepts fondamentaux des structures de données en utilisant Python.
